@@ -43,7 +43,7 @@ author: IE
 copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Here, I will upload my projects and weekly assignments and tasks, and also give a proper breakdown of how I achieved my solutions. And also I will show and document my artefacts created during the module, a brief description, and any feedback i received. I will also document challenges i encountered and how i tackled them
+Here, I will upload my projects and weekly assignments and tasks, and also give a proper breakdown of how I achieved my solutions. And also I will show and document my artefacts created during the module, a brief description, and any feedback i received. I will also document challenges i encountered and how i tackled them
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
